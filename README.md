@@ -55,7 +55,7 @@ The dataset (`music.csv`) includes:
 The decision tree visualization provides insight into the model's decision-making process.  
 🔗 **Click the image to view full size:**
 
-[![Decision Tree](https://raw.githubusercontent.com/Pouria-Samadi/music-genre-ml-classifier/main/Visualization.svg)](https://github.com/Pouria-Samadi/music-genre-ml-classifier/blob/main/Visualization.svg)
+[![Decision Tree]([https://raw.githubusercontent.com/Pouria-Samadi/music-genre-ml-classifier/main/Visualization.svg)](https://github.com/Pouria-Samadi/music-genre-ml-classifier/blob/main/Visualization.svg](https://github.com/Pouria-Samadi/music-genre-ml-classifier/commit/0e7b9be36cfb0f6694b2fd781a4492e082f9d6c0#diff-22aa9d3ace0358b40349392b241239670330e013261aca19c92dcc97ffdf3757))
 
 
 ## 🤖 Technologies Used
