@@ -50,9 +50,12 @@ The dataset (`music.csv`) includes:
    jupyter notebook MusicAPP.ipynb
    ```
 
-📈 Visualization
+## 📈 Visualization
 
-The decision tree visualization (Visualization.svg) provides insight into the model's decision-making process:
+The decision tree visualization provides insight into the model's decision-making process.  
+🔗 **Click the image to view full size:**
+
+[![Decision Tree](https://raw.githubusercontent.com/Pouria-Samadi/music-genre-ml-classifier/main/Visualization.svg)](https://github.com/Pouria-Samadi/music-genre-ml-classifier/blob/main/Visualization.svg)
 
 
 ## 🤖 Technologies Used
